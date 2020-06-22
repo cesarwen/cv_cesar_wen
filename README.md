@@ -1,6 +1,7 @@
 # cv_cesar_wen
 
 ##################################################
+
 Portugues
 utiliza pacotes de fontes:
 
@@ -10,6 +11,7 @@ fontawesome
 precisam estar devidamente instaladados
 
 ##################################################
+
 English
 
 used fonts packeges
