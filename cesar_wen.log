@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (MiKTeX 2.9.7380 64-bit)  (format=lualatex 2020.6.21)  22 JUN 2020 20:51
+This is LuaHBTeX, Version 1.12.0 (MiKTeX 2.9.7380 64-bit)  (format=lualatex 2020.6.21)  23 JUN 2020 17:32
  restricted system commands enabled.
 **cesar_wen.tex
 (./cesar_wen.tex
@@ -1224,11 +1224,11 @@ Package nag Info: Command \hc@caption not defined, skipping amendment on input l
 ine 188.
 Package nag Info: Command \topcaption not defined, skipping amendment on input l
 ine 188.
-<images/profile_picture.JPG, id=6, 948.1824pt x 631.02034pt>
-File: images/profile_picture.JPG Graphic file (type jpg)
-<use images/profile_picture.JPG>
-Package luatex.def Info: images/profile_picture.JPG  used on input line 206.
-(luatex.def)             Requested size: 113.81102pt x 75.73842pt.
+<images/profile_picture.JPEG, id=6, 580.41844pt x 556.32843pt>
+File: images/profile_picture.JPEG Graphic file (type jpg)
+<use images/profile_picture.JPEG>
+Package luatex.def Info: images/profile_picture.JPEG  used on input line 206.
+(luatex.def)             Requested size: 113.81102pt x 109.08206pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 285.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -1240,25 +1240,25 @@ No complaints by nag.
 [1
 
 {C:/Users/cesar/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}<./images/prof
-ile_picture.JPG>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 559.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 559.
+ile_picture.JPEG>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 511.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 511.
  (./cesar_wen.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 559.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 559.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 511.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 511.
 Package rerunfilecheck Info: File `cesar_wen.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 559.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 511.
 )
 
 Here is how much of LuaTeX's memory you used:
- 26238 strings out of 480885
+ 26258 strings out of 480885
  100000,953878 words of node,token memory allocated
  513 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 5 glue, 3 kern, 1 glyph, 9 attribute, 60 glue_spec,
  6 attribute_list, 2 write nodes
-   avail lists: 2:7193,3:1075,4:232,5:330,6:50,7:3833,8:6,9:940,10:17,11:310
- 43007 multiletter control sequences out of 65536+200000
+   avail lists: 2:6857,3:1019,4:194,5:299,6:44,7:3592,8:6,9:923,10:17,11:275
+ 43027 multiletter control sequences out of 65536+200000
  69 fonts using 15571419 bytes
  60i,16n,102p,911b,1073s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/cesar/AppData/Local/Microsoft/Windows/Fonts/firasans-italic.ttf><c:/us
@@ -1266,7 +1266,7 @@ ers/cesar/appdata/local/microsoft/windows/fonts/firasans-medium.ttf><C:/Users/ce
 sar/AppData/Local/Microsoft/Windows/Fonts/firasans-bold.ttf><C:/Users/cesar/AppD
 ata/Local/Programs/MiKTeX 2.9/fonts/opentype/public/fontawesome/fontawesome.otf>
 <C:/Users/cesar/AppData/Local/Microsoft/Windows/Fonts/firasans-regular.ttf>
-Output written on cesar_wen.pdf (1 page, 8224646 bytes).
+Output written on cesar_wen.pdf (1 page, 184257 bytes).
 
 PDF statistics: 54 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 131072)

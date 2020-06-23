@@ -200,7 +200,7 @@
 			minimum size=\cvPictureWidth,
 			path picture={
 				\node at (path picture bounding box.center){
-					\includegraphics[width=\cvPictureWidth]{images/profile_picture.JPG}
+					\includegraphics[width=\cvPictureWidth]{images/profile_picture.JPEG}
 				};
 			}]
 			{};
@@ -466,8 +466,9 @@
 	column 4/.style={anchor=west},
 	column 5/.style={anchor=east,align=left},
 	column 6/.style={anchor=west}] (skills) {
-		\cvSkill{4} & MATLAB\hspace{0.5cm}   & \cvSkill{2} & \LaTeX                & \cvSkill{4} & mySQL\\
-		\cvSkill{4} & Python                 & \cvSkill{3} & Java\hspace{0.5cm}    & \cvSkill{3} & C, C++\\};	
+		\cvSkill{4} & MATLAB\hspace{0.5cm}   & \cvSkill{3} & C, C+                 & \cvSkill{4} & mySQL\\
+		\cvSkill{4} & Python                 & \cvSkill{3} & Java\hspace{0.5cm}    & \cvSkill{2} & \LaTeX\\
+		\cvSkill{3} & git                    & \cvSkill{2} & HTML, CSS             & & \\};	
 
 	%%%%%%%%%%%%%%
 	% Tools      %
@@ -495,64 +496,15 @@
 	column 3/.style={anchor=east,align=left},
 	column 4/.style={anchor=west},] (skills) {
 		\cvSkill{3} & Fusion 360           				  & \cvSkill{4} & Visual Studio Code\\
-		\cvSkill{3} & Autodesk Inventor\hspace{0.5cm}     & \cvSkill{3} & Pacote Office\\};
+		\cvSkill{3} & Autodesk Inventor\hspace{0.5cm}     & \cvSkill{2} & Pacote Office\\
+		\cvSkill{2} & Diptrace                            & & \\};
 		
 		
 	%%%%%%%%%%%%%%%%
 	% Certificates %
 	%%%%%%%%%%%%%%%%	
 
-	\node[below=0.6cm of skills.south west,sectionTitle] (title 5) {\cvSection{Certificados}};
-	\node[left=\cvTimeDotSep of title 5,headerIcon] {\faCheckSquareO};
-	\node[below=0.6cm of skills.south west,sectionTitle] (title 5 dummy) {\phantom{\cvSection{Educação}}};
-	\begin{scope}[on background layer]
-	\draw[line width=2pt,cvDark] 
-	let \p1=(title 5 dummy.south west), 
-	\p2=(current page.east) in 
-	(\x1,\y1-0.1cm) to (\x2,\y1-0.1cm);
-	\end{scope}
-
-	\node[
-	below=\cvSectionSep of title 5.south west,
-	eventdottext] 
-	(item 1 header) 
-	{\phantom{Graduação}};
-	\node[
-	below=\cvSectionSep of title 5.south west,
-	sectionedutext] 
-	(item 1) 
-	{\cvCertificate
-		{TOEFL IBT - 101}
-		{Um dos maiores certificados de inglês do  mundo. (Potuação máxima: 120)}};
-	\node[
-	left=\cvTimeDotSep of item 1 header,
-	timedot] 
-	(start) 
-	{};
 	
-	\node[
-	below=\cvSectionSep of item 1.south west,
-	eventdottext] 
-	(item 2 header) 
-	{\phantom{Graduação}};
-	\node[
-	below=\cvSectionSep of item 1.south west,
-	sectionedutext] 
-	(item 2) 
-	{\cvCertificate
-		{Curso Avançado de Língua Espanhola e Cultura Hispânica}
-		{Certificado do curso de espanhol oferecido pelo Colégio Bandeirantes. (Aprovado)}};
-	\node[
-	left=\cvTimeDotSep of item 2 header,
-	timedot] 
-	{};
-	
-	\node[
-	left=\cvTimeDotSep of item 2.south west,
-	invisibletimedot] 
-	(end) 
-	{};
-	\draw (start) to (end.center);
 		
 	\end{tikzpicture}
 	
