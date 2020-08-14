@@ -1,9 +1,8 @@
-# cv_cesar_wen
+# Cesar Wen CV
 
 
 ---
-Portugues
-utiliza pacotes de fontes:
+Utiliza pacotes de fontes:
 
 fira
 fontawesome
