@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (MiKTeX 2.9.7380 64-bit)  (format=lualatex 2020.8.7)  13 AUG 2020 23:01
+This is LuaHBTeX, Version 1.12.0 (MiKTeX 2.9.7380 64-bit)  (format=lualatex 2020.8.7)  14 AUG 2020 00:45
  restricted system commands enabled.
 **cesar_wen.tex
 (./cesar_wen.tex
@@ -1045,44 +1045,44 @@ Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
  (./cesar_wen.aux)
 \openout1 = cesar_wen.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 188.
-LaTeX Font Info:    ... okay on input line 188.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 188.
-LaTeX Font Info:    ... okay on input line 188.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 188.
-LaTeX Font Info:    ... okay on input line 188.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 188.
-LaTeX Font Info:    ... okay on input line 188.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 188.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 18
-8.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 190.
+LaTeX Font Info:    ... okay on input line 190.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 190.
+LaTeX Font Info:    ... okay on input line 190.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 190.
+LaTeX Font Info:    ... okay on input line 190.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 190.
+LaTeX Font Info:    ... okay on input line 190.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 190.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 19
+0.
 
 ("C:/Users/Cesar Wen/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/ts1cmr.fd
 "
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 188.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 188.
-LaTeX Font Info:    ... okay on input line 188.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 188.
-LaTeX Font Info:    ... okay on input line 188.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 188.
-LaTeX Font Info:    ... okay on input line 188.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 188.
-LaTeX Font Info:    ... okay on input line 188.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 188.
-LaTeX Font Info:    ... okay on input line 188.
-Package nag Info: pgf.sty is broken: disabling dollar check on input line 188.
+LaTeX Font Info:    ... okay on input line 190.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 190.
+LaTeX Font Info:    ... okay on input line 190.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 190.
+LaTeX Font Info:    ... okay on input line 190.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 190.
+LaTeX Font Info:    ... okay on input line 190.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 190.
+LaTeX Font Info:    ... okay on input line 190.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 190.
+LaTeX Font Info:    ... okay on input line 190.
+Package nag Info: pgf.sty is broken: disabling dollar check on input line 190.
 Package nag Info: Command \frontmatter not defined, skipping amendment on input 
-line 188.
+line 190.
 Package nag Info: Command \mainmatter not defined, skipping amendment on input l
-ine 188.
+ine 190.
 Package nag Info: Command \backmatter not defined, skipping amendment on input l
-ine 188.
+ine 190.
 Package nag Info: Command \RaggedLeft not defined, skipping amendment on input l
-ine 188.
+ine 190.
 Package nag Info: Command \RaggedRight not defined, skipping amendment on input 
-line 188.
+line 190.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: luatex
@@ -1119,7 +1119,7 @@ line 188.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \AtBeginShipoutBox=\box59
-Package hyperref Info: Link coloring OFF on input line 188.
+Package hyperref Info: Link coloring OFF on input line 190.
 
 ("C:/Users/Cesar Wen/AppData/Local/Programs/MiKTeX 2.9/tex/latex/hyperref/namer
 ef.sty"
@@ -1135,9 +1135,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count295
 )
-LaTeX Info: Redefining \ref on input line 188.
-LaTeX Info: Redefining \pageref on input line 188.
-LaTeX Info: Redefining \nameref on input line 188.
+LaTeX Info: Redefining \ref on input line 190.
+LaTeX Info: Redefining \pageref on input line 190.
+LaTeX Info: Redefining \nameref on input line 190.
  (./cesar_wen.out) (./cesar_wen.out)
 \@outlinefile=\write4
 
@@ -1171,74 +1171,74 @@ Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
 
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 188.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 188.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 188.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 188.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 188.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 188.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 188.
-LaTeX Font Info:    Redeclaring math accent \check on input line 188.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 188.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 188.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 188.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 188.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 188.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 188.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 188.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 188.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 188.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 188.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 188.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 188.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 188.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 188.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 188.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 188.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 188.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 190.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 190.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 190.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 190.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 190.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 190.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 190.
+LaTeX Font Info:    Redeclaring math accent \check on input line 190.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 190.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 190.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 190.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 190.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 190.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 190.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 190.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 190.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 190.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 190.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 190.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 190.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 190.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 190.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 190.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 190.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 190.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 188.
+(Font)              `operators' in the math version `normal' on input line 190.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/FiraSans(0)/m/n on input line 188.
+(Font)                  OT1/cmr/m/n --> TU/FiraSans(0)/m/n on input line 190.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 188.
+(Font)              `operators' in the math version `bold' on input line 190.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/FiraSans(0)/m/n on input line 188.
+(Font)                  OT1/cmr/bx/n --> TU/FiraSans(0)/m/n on input line 190.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  TU/FiraSans(0)/m/n --> TU/FiraSans(0)/m/n on input line 
-188.
+190.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/FiraSans(0)/m/it on input line 188.
+(Font)                  OT1/cmr/m/it --> TU/FiraSans(0)/m/it on input line 190.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/FiraSans(0)/b/n on input line 188.
+(Font)                  OT1/cmr/bx/n --> TU/FiraSans(0)/b/n on input line 190.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/FiraSans(1)/m/n on input line 188.
+(Font)                  OT1/cmss/m/n --> TU/FiraSans(1)/m/n on input line 190.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/FiraMono(0)/m/n on input line 188.
+(Font)                  OT1/cmtt/m/n --> TU/FiraMono(0)/m/n on input line 190.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  TU/FiraSans(0)/m/n --> TU/FiraSans(0)/b/n on input line 
-188.
+190.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/FiraSans(0)/b/it on input line 188.
+(Font)                  OT1/cmr/bx/it --> TU/FiraSans(0)/b/it on input line 190.
 
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/FiraSans(1)/b/n on input line 188.
+(Font)                  OT1/cmss/bx/n --> TU/FiraSans(1)/b/n on input line 190.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/FiraMono(0)/b/n on input line 188.
+(Font)                  OT1/cmtt/m/n --> TU/FiraMono(0)/b/n on input line 190.
 Package nag Info: Command \caption@xlabel not defined, skipping amendment on inp
-ut line 188.
+ut line 190.
 Package nag Info: Command \captionabove not defined, skipping amendment on input
- line 188.
+ line 190.
 Package nag Info: Command \captionbelow not defined, skipping amendment on input
- line 188.
+ line 190.
 Package nag Info: Command \hc@caption not defined, skipping amendment on input l
-ine 188.
+ine 190.
 Package nag Info: Command \topcaption not defined, skipping amendment on input l
-ine 188.
+ine 190.
 <images/profile_picture.JPEG, id=6, 580.41844pt x 556.32843pt>
 File: images/profile_picture.JPEG Graphic file (type jpg)
 <use images/profile_picture.JPEG>
-Package luatex.def Info: images/profile_picture.JPEG  used on input line 206.
+Package luatex.def Info: images/profile_picture.JPEG  used on input line 208.
 (luatex.def)             Requested size: 113.81102pt x 109.08206pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 285.
@@ -1250,41 +1250,37 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 No complaints by nag.
 [1
 
-]
-Overfull \vbox (28.4586pt too high) has occurred while \output is active []
-
-
-[2{C:/Users/Cesar Wen/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}<./image
-s/profile_picture.JPEG>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 582.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 582.
+{C:/Users/Cesar Wen/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}<./images/
+profile_picture.JPEG>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 580.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 580.
  (./cesar_wen.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 582.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 582.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 580.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 580.
 Package rerunfilecheck Info: File `cesar_wen.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 582.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 580.
 )
 
 Here is how much of LuaTeX's memory you used:
- 26178 strings out of 480992
+ 26179 strings out of 480992
  100000,953878 words of node,token memory allocated
  513 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 5 glue, 3 kern, 1 glyph, 9 attribute, 60 glue_spec,
  6 attribute_list, 2 write nodes
-   avail lists: 2:6956,3:1043,4:234,5:391,6:57,7:4266,8:6,9:932,10:14,11:337
- 42832 multiletter control sequences out of 65536+200000
- 69 fonts using 15571419 bytes
- 60i,16n,102p,911b,1081s stack positions out of 5000i,500n,10000p,200000b,50000s
+   avail lists: 2:6992,3:1044,4:244,5:377,6:57,7:4164,8:12,9:918,10:14,11:345
+ 42834 multiletter control sequences out of 65536+200000
+ 70 fonts using 15992707 bytes
+ 60i,16n,102p,911b,1077s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/Cesar Wen/AppData/Local/Microsoft/Windows/Fonts/firasans-italic.ttf><c
 :/users/cesar wen/appdata/local/microsoft/windows/fonts/firasans-medium.ttf><C:/
-Users/Cesar Wen/AppData/Local/Microsoft/Windows/Fonts/firasans-bold.ttf><C:/User
-s/Cesar Wen/AppData/Local/Programs/MiKTeX 2.9/fonts/opentype/public/fontawesome/
-FontAwesome.otf><C:/Users/Cesar Wen/AppData/Local/Microsoft/Windows/Fonts/firasa
+Users/Cesar Wen/AppData/Local/Programs/MiKTeX 2.9/fonts/opentype/public/fontawes
+ome/FontAwesome.otf><C:/Users/Cesar Wen/AppData/Local/Microsoft/Windows/Fonts/fi
+rasans-bold.ttf><C:/Users/Cesar Wen/AppData/Local/Microsoft/Windows/Fonts/firasa
 ns-regular.ttf>
-Output written on cesar_wen.pdf (2 pages, 187237 bytes).
+Output written on cesar_wen.pdf (1 page, 188799 bytes).
 
-PDF statistics: 59 PDF objects out of 1000 (max. 8388607)
- 3 named destinations out of 1000 (max. 131072)
+PDF statistics: 60 PDF objects out of 1000 (max. 8388607)
+ 2 named destinations out of 1000 (max. 131072)
  16 words of extra memory for PDF output out of 10000 (max. 100000000)
 
