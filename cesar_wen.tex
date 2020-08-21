@@ -45,15 +45,15 @@
 \newlength{\cvSectionSep}
 \setlength{\cvSectionSep}{0.4cm}
 
-\usepackage{calc}
 \newlength\cvHeaderIconWidth
 
 \newcommand{\cvSection}[1]{\Large\textbf{#1}}
 
 \newcommand{\cvEducation}[4]{{\firaMedium #1}\\ \textsc{\selectfont #2} \\ {\color{cvdate_blue}#3} \\ \smallskip \emph{#4}}
 \newcommand{\cvExperience}[5]{{\firaMedium #1}\\ \textsc{\selectfont #2} \\ \textsc{\selectfont #3} \\ {\color{cvdate_blue}#4}\\ \smallskip \emph{#5}}
-\newcommand{\cvCertificate}[2]{{\firaMedium #1} \\ {\color{link_blue}\textsc{\selectfont #2}}\\ \smallskip \emph{#2}}
+\newcommand{\cvCertificate}[3]{{\firaMedium #1} \\ {\color{link_blue}\textsc{\selectfont #2}}\\ \smallskip \emph{#3}}
 
+\usepackage{datetime}
 
 % links
 \usepackage{hyperref}
@@ -208,6 +208,8 @@
 			{};
 			\end{tikzpicture}
 			
+			\smallskip
+			
 			{\LARGE
 				Cesar Wen}
 			
@@ -281,6 +283,7 @@
 			\vspace{2cm}
 			\today
 			
+			
 		\end{center}
 	\end{minipage}
 	\vspace*{\fill}
@@ -344,7 +347,7 @@
 	{\cvEducation{Intercâmbio}%
 		{Shibaura Intitute of Technology, Saitama, Japão}
 		{Agosto 2018 -- Agosto 2019}%
-		{Programa "Sandwich Program" oferecido pela faculdade no exterior em parceria com a Escola Politécnica. Estudos sobre a cultura, linguas e tecnologia.}};
+		{"Sandwich Program", estudos sobre a cultura, linguas e tecnologia.}};
 	\node[
 	left=\cvTimeDotSep of item 2 header,
 	timedot] 
@@ -363,7 +366,7 @@
 	{\cvEducation{Ensino Médio}%
 		{Colégio Bandeirantes}
 		{Janeiro 2010 -- Dezembro 2013}%
-		{Estudos sobre conteúdos gerais e multiplas oportunidadeds de estudos em diversos temas como aulas de espanhol e oficina mecatrônica.}};
+		{Incluindo aulas de espanhol e oficina mecatrônica.}};
 	\node[
 	left=\cvTimeDotSep of item 3 header,
 	timedot] 
@@ -375,6 +378,8 @@
 	(end) 
 	{};
 	\draw (start) to (end.center);
+	
+	% producao de prototipo
 	
 	%%%%%%%%%%%%%%
 	% Experience %
@@ -428,7 +433,7 @@
 		{Laboratório de Percepção Avançada (LPA)}%
 		{Escola Politécnica da USP}%
 		{Fevereiro 2017 -- Fevereiro 2018}%
-		{Software de aquisição e armazenamento de dados de estações meteorológicas para a análise de conforto ambiental.}};
+		{Software de aquisição e armazenamento de dados de estações meteorológicas para a análise de conforto ambiental. E desenvolvimento de webservice para comunicação com o aplicativo.}};
 	\node[
 	left=\cvTimeDotSep of item 2 header,
 	timedot]   
@@ -479,7 +484,7 @@
 	column 4/.style={anchor=west},
 	column 5/.style={anchor=east,align=left},
 	column 6/.style={anchor=west}] (skills) {
-		\cvSkill{4} & MATLAB\hspace{0.5cm}   & \cvSkill{3} & C, C+                 & \cvSkill{4} & SQL\\
+		\cvSkill{4} & MATLAB\hspace{0.4cm}   & \cvSkill{3} & C, C+                 & \cvSkill{4} & SQL\\
 		\cvSkill{4} & Python                 & \cvSkill{3} & Java\hspace{0.5cm}    & \cvSkill{4} & Excel\\
 		\cvSkill{3} & git                    & \cvSkill{3} & HTML, CSS, JS         & \cvSkill{2} & \LaTeX\\};	
 
@@ -539,7 +544,7 @@
 	(item 1) 
 	{\cvCertificate%
 		{Machine Learning}%
-		{\href{https://cursos.alura.com.br/degree/certificate/98f57b77-ffe3-4062-b69c-7259b0fd74c6}{Plataforma Alura (Certificado)}}%	
+		{{\href{https://cursos.alura.com.br/degree/certificate/98f57b77-ffe3-4062-b69c-7259b0fd74c6}{Plataforma Alura (Certificado)}}}%	
 		{Estudos de algorítimos supervisionados e não supervisionados, linguagem natural, validação de modelos e otimizações.}};
 	\node[
 	left=\cvTimeDotSep of item 1 header,
@@ -559,7 +564,7 @@
 	(item 2) 
 	{\cvCertificate%
 		{Excel VBA}%
-		{\href{https://cursos.alura.com.br/degree/certificate/68d6f5b3-3a07-4fac-9f6b-f42f04e131ca}{Plataforma Alura (Certificado)}}%	
+		{{\href{https://cursos.alura.com.br/degree/certificate/68d6f5b3-3a07-4fac-9f6b-f42f04e131ca}{Plataforma Alura (Certificado)}}}%	
 		{Funções, tabelas e gráficos dinâmicos, análises de cenários, macros e VBA. }};
 	\node[
 	left=\cvTimeDotSep of item 2 header,

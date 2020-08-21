@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (MiKTeX 2.9.7380 64-bit)  (format=lualatex 2020.8.7)  14 AUG 2020 00:45
+This is LuaHBTeX, Version 1.12.0 (MiKTeX 2.9.7380 64-bit)  (format=lualatex 2020.8.7)  21 AUG 2020 11:42
  restricted system commands enabled.
 **cesar_wen.tex
 (./cesar_wen.tex
@@ -287,6 +287,92 @@ try.cfg"))
 \cvSectionSep=\skip59
 \cvHeaderIconWidth=\skip60
 
+("C:/Users/Cesar Wen/AppData/Local/Programs/MiKTeX 2.9/tex/latex/datetime/datet
+ime.sty"
+Package: datetime 2015/03/20 v2.60 Date Time Package
+
+("C:/Users/Cesar Wen/AppData/Local/Programs/MiKTeX 2.9/tex/latex/etoolbox/etool
+box.sty"
+Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count180
+)
+("C:/Users/Cesar Wen/AppData/Local/Programs/MiKTeX 2.9/tex/latex/fmtcount/fmtco
+unt.sty"
+Package: fmtcount 2020/01/30 v3.07
+
+("C:/Users/Cesar Wen/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/ifthen.st
+y"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("C:/Users/Cesar Wen/AppData/Local/Programs/MiKTeX 2.9/tex/latex/xkeyval/xkeyva
+l.sty"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+("C:/Users/Cesar Wen/AppData/Local/Programs/MiKTeX 2.9/tex/generic/xkeyval/xkey
+val.tex"
+("C:/Users/Cesar Wen/AppData/Local/Programs/MiKTeX 2.9/tex/generic/xkeyval/xkvu
+tils.tex"
+\XKV@toks=\toks17
+\XKV@tempa@toks=\toks18
+)
+\XKV@depth=\count181
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+("C:/Users/Cesar Wen/AppData/Local/Programs/MiKTeX 2.9/tex/latex/fmtcount/fcpre
+fix.sty"
+Package: fcprefix 2012/09/28
+
+("C:/Users/Cesar Wen/AppData/Local/Programs/MiKTeX 2.9/tex/latex/fmtcount/fcnum
+parser.sty"
+Package: fcnumparser 2017/06/15
+\fc@digit@counter=\count182
+))
+("C:/Users/Cesar Wen/AppData/Local/Programs/MiKTeX 2.9/tex/latex/amsmath/amsgen
+.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen146
+)
+\c@padzeroesN=\count183
+\fc@tmpcatcode=\count184
+
+("C:/Users/Cesar Wen/AppData/Local/Programs/MiKTeX 2.9/tex/latex/fmtcount/fc-po
+rtuges.def"
+File: fc-portuges.def 2017/12/26
+)
+\@DT@modctr=\count185
+\@ordinalctr=\count186
+\@orgargctr=\count187
+\@strctr=\count188
+\@tmpstrctr=\count189
+\@DT@loopN=\count190
+\@DT@X=\count191
+)
+("C:/Users/Cesar Wen/AppData/Local/Programs/MiKTeX 2.9/tex/latex/datetime/datet
+ime-defaults.sty"
+Package: datetime-defaults 2013/09/10
+)
+\@day=\count192
+\@month=\count193
+\@year=\count194
+\c@HOUR=\count195
+\c@HOURXII=\count196
+\c@MINUTE=\count197
+\c@TOHOUR=\count198
+\c@TOMINUTE=\count199
+\c@SECOND=\count266
+\currenthour=\count267
+\currentminute=\count268
+\currentsecond=\count269
+Package datetime Info: No datetime.cfg file found, using default settings on inp
+ut line 308.
+\@dtctr=\count270
+\dayofyear=\count271
+\dayofweek=\count272
+LaTeX Info: Redefining \today on input line 736.
+\dt@a=\toks20
+\dt@b=\toks21
+)
 ("C:/Users/Cesar Wen/AppData/Local/Programs/MiKTeX 2.9/tex/latex/hyperref/hyper
 ref.sty"
 Package: hyperref 2020/01/14 v7.00d Hypertext links for LaTeX
@@ -307,7 +393,7 @@ Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-\pdftexcmds@toks=\toks17
+\pdftexcmds@toks=\toks22
 )
 ("C:/Users/Cesar Wen/AppData/Local/Programs/MiKTeX 2.9/tex/generic/kvsetkeys/kv
 setkeys.sty"
@@ -337,9 +423,9 @@ Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 tions.sty"
 Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
 )
-\@linkdim=\dimen146
-\Hy@linkcounter=\count180
-\Hy@pagecounter=\count181
+\@linkdim=\dimen147
+\Hy@linkcounter=\count273
+\Hy@pagecounter=\count274
 
 ("C:/Users/Cesar Wen/AppData/Local/Programs/MiKTeX 2.9/tex/latex/hyperref/pd1en
 c.def"
@@ -353,7 +439,7 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 xcmds.sty"
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count182
+\Hy@SavedSpaceFactor=\count275
 Package hyperref Info: Hyper figures OFF on input line 4547.
 Package hyperref Info: Link nesting OFF on input line 4552.
 Package hyperref Info: Hyper index ON on input line 4555.
@@ -361,14 +447,14 @@ Package hyperref Info: Plain pages OFF on input line 4562.
 Package hyperref Info: Backreferencing OFF on input line 4567.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4800.
-\c@Hy@tempcnt=\count183
+\c@Hy@tempcnt=\count276
 
 ("C:/Users/Cesar Wen/AppData/Local/Programs/MiKTeX 2.9/tex/latex/url/url.sty"
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5159.
-\XeTeXLinkMargin=\dimen147
+\XeTeXLinkMargin=\dimen148
 
 ("C:/Users/Cesar Wen/AppData/Local/Programs/MiKTeX 2.9/tex/generic/bitset/bitse
 t.sty"
@@ -379,9 +465,9 @@ igintcalc.sty"
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 
 ))
-\Fld@menulength=\count184
-\Field@Width=\dimen148
-\Fld@charsize=\dimen149
+\Fld@menulength=\count277
+\Field@Width=\dimen149
+\Fld@charsize=\dimen150
 Package hyperref Info: Hyper figures OFF on input line 6430.
 Package hyperref Info: Link nesting OFF on input line 6435.
 Package hyperref Info: Hyper index ON on input line 6438.
@@ -396,9 +482,9 @@ LaTeX Info: Redefining \pageref on input line 6504.
 egshi.sty"
 Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
 )
-\Hy@abspage=\count185
-\c@Item=\count186
-\c@Hfootnote=\count187
+\Hy@abspage=\count278
+\c@Item=\count279
+\c@Hfootnote=\count280
 )
 Package hyperref Info: Driver (autodetected): hluatex.
 
@@ -418,10 +504,9 @@ Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
 ("C:/Users/Cesar Wen/AppData/Local/Programs/MiKTeX 2.9/tex/latex/atveryend/atve
 ryend.sty"
 Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
-Package atveryend Info: \enddocument detected (standard20110627).
 )
-\Fld@listcount=\count188
-\c@bookmark@seq@number=\count189
+\Fld@listcount=\count281
+\c@bookmark@seq@number=\count282
 
 ("C:/Users/Cesar Wen/AppData/Local/Programs/MiKTeX 2.9/tex/latex/rerunfilecheck
 /rerunfilecheck.sty"
@@ -445,14 +530,14 @@ Package: expl3 2020-03-06 L3 programming layer (loader)
 ("C:/Users/Cesar Wen/AppData/Local/Programs/MiKTeX 2.9/tex/latex/l3backend/l3ba
 ckend-pdfmode.def"
 File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count190
+\l__kernel_color_stack_int=\count283
 \l__pdf_internal_box=\box45
 ))
 Package: xparse 2020-03-06 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count191
-\g__xparse_grabber_int=\count192
-\l__xparse_m_args_int=\count193
-\l__xparse_v_nesting_int=\count194
+\l__xparse_current_arg_int=\count284
+\g__xparse_grabber_int=\count285
+\l__xparse_m_args_int=\count286
+\l__xparse_v_nesting_int=\count287
 )
 ("C:/Users/Cesar Wen/AppData/Local/Programs/MiKTeX 2.9/tex/latex/pgf/frontendla
 yer/tikz.sty"
@@ -462,9 +547,9 @@ yer/tikz.sty"
 pgfrcs.sty"
 ("C:/Users/Cesar Wen/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/utilitie
 s/pgfutil-common.tex"
-\pgfutil@everybye=\toks18
-\pgfutil@tempdima=\dimen150
-\pgfutil@tempdimb=\dimen151
+\pgfutil@everybye=\toks23
+\pgfutil@tempdima=\dimen151
+\pgfutil@tempdimb=\dimen152
 
 ("C:/Users/Cesar Wen/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/utilitie
 s/pgfutil-common-lists.tex"))
@@ -508,8 +593,8 @@ Package graphics Info: Driver file: luatex.def on input line 105.
 uatex.def"
 File: luatex.def 2018/01/08 v1.0l Graphics/color driver for luatex
 ))
-\Gin@req@height=\dimen152
-\Gin@req@width=\dimen153
+\Gin@req@height=\dimen153
+\Gin@req@width=\dimen154
 )
 ("C:/Users/Cesar Wen/AppData/Local/Programs/MiKTeX 2.9/tex/latex/pgf/systemlaye
 r/pgfsys.sty"
@@ -519,33 +604,33 @@ Package: pgfsys 2020/01/08 v3.1.5b (3.1.5b)
 
 ("C:/Users/Cesar Wen/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/utilitie
 s/pgfkeys.code.tex"
-\pgfkeys@pathtoks=\toks19
-\pgfkeys@temptoks=\toks20
+\pgfkeys@pathtoks=\toks24
+\pgfkeys@temptoks=\toks25
 
 ("C:/Users/Cesar Wen/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/utilitie
 s/pgfkeysfiltered.code.tex"
-\pgfkeys@tmptoks=\toks21
+\pgfkeys@tmptoks=\toks26
 ))
-\pgf@x=\dimen154
-\pgf@y=\dimen155
-\pgf@xa=\dimen156
-\pgf@ya=\dimen157
-\pgf@xb=\dimen158
-\pgf@yb=\dimen159
-\pgf@xc=\dimen160
-\pgf@yc=\dimen161
-\pgf@xd=\dimen162
-\pgf@yd=\dimen163
+\pgf@x=\dimen155
+\pgf@y=\dimen156
+\pgf@xa=\dimen157
+\pgf@ya=\dimen158
+\pgf@xb=\dimen159
+\pgf@yb=\dimen160
+\pgf@xc=\dimen161
+\pgf@yc=\dimen162
+\pgf@xd=\dimen163
+\pgf@yd=\dimen164
 \w@pgf@writea=\write3
 \r@pgf@reada=\read3
-\c@pgf@counta=\count195
-\c@pgf@countb=\count196
-\c@pgf@countc=\count197
-\c@pgf@countd=\count198
-\t@pgf@toka=\toks22
-\t@pgf@tokb=\toks23
-\t@pgf@tokc=\toks24
-\pgf@sys@id@count=\count199
+\c@pgf@counta=\count288
+\c@pgf@countb=\count289
+\c@pgf@countc=\count290
+\c@pgf@countd=\count291
+\t@pgf@toka=\toks27
+\t@pgf@tokb=\toks28
+\t@pgf@tokc=\toks29
+\pgf@sys@id@count=\count292
 
 ("C:/Users/Cesar Wen/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/systemla
 yer/pgf.cfg"
@@ -564,8 +649,8 @@ File: pgfsys-common-pdf.def 2020/01/08 v3.1.5b (3.1.5b)
 ("C:/Users/Cesar Wen/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/systemla
 yer/pgfsyssoftpath.code.tex"
 File: pgfsyssoftpath.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgfsyssoftpath@smallbuffer@items=\count266
-\pgfsyssoftpath@bigbuffer@items=\count267
+\pgfsyssoftpath@smallbuffer@items=\count293
+\pgfsyssoftpath@bigbuffer@items=\count294
 )
 ("C:/Users/Cesar Wen/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/systemla
 yer/pgfsysprotocol.code.tex"
@@ -602,12 +687,12 @@ mathcalc.code.tex"
 mathutil.code.tex")
 ("C:/Users/Cesar Wen/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/math/pgf
 mathparser.code.tex"
-\pgfmath@dimen=\dimen164
-\pgfmath@count=\count268
+\pgfmath@dimen=\dimen165
+\pgfmath@count=\count295
 \pgfmath@box=\box47
-\pgfmath@toks=\toks25
-\pgfmath@stack@operand=\toks26
-\pgfmath@stack@operation=\toks27
+\pgfmath@toks=\toks30
+\pgfmath@stack@operand=\toks31
+\pgfmath@stack@operation=\toks32
 )
 ("C:/Users/Cesar Wen/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/math/pgf
 mathfunctions.code.tex"
@@ -629,39 +714,39 @@ mathfunctions.misc.code.tex")
 mathfunctions.integerarithmetics.code.tex")))
 ("C:/Users/Cesar Wen/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/math/pgf
 mathfloat.code.tex"
-\c@pgfmathroundto@lastzeros=\count269
+\c@pgfmathroundto@lastzeros=\count296
 ))
 ("C:/Users/Cesar Wen/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/math/pgf
 int.code.tex")
 ("C:/Users/Cesar Wen/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/basiclay
 er/pgfcorepoints.code.tex"
 File: pgfcorepoints.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@picminx=\dimen165
-\pgf@picmaxx=\dimen166
-\pgf@picminy=\dimen167
-\pgf@picmaxy=\dimen168
-\pgf@pathminx=\dimen169
-\pgf@pathmaxx=\dimen170
-\pgf@pathminy=\dimen171
-\pgf@pathmaxy=\dimen172
-\pgf@xx=\dimen173
-\pgf@xy=\dimen174
-\pgf@yx=\dimen175
-\pgf@yy=\dimen176
-\pgf@zx=\dimen177
-\pgf@zy=\dimen178
+\pgf@picminx=\dimen166
+\pgf@picmaxx=\dimen167
+\pgf@picminy=\dimen168
+\pgf@picmaxy=\dimen169
+\pgf@pathminx=\dimen170
+\pgf@pathmaxx=\dimen171
+\pgf@pathminy=\dimen172
+\pgf@pathmaxy=\dimen173
+\pgf@xx=\dimen174
+\pgf@xy=\dimen175
+\pgf@yx=\dimen176
+\pgf@yy=\dimen177
+\pgf@zx=\dimen178
+\pgf@zy=\dimen179
 )
 ("C:/Users/Cesar Wen/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/basiclay
 er/pgfcorepathconstruct.code.tex"
 File: pgfcorepathconstruct.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@path@lastx=\dimen179
-\pgf@path@lasty=\dimen180
+\pgf@path@lastx=\dimen180
+\pgf@path@lasty=\dimen181
 )
 ("C:/Users/Cesar Wen/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/basiclay
 er/pgfcorepathusage.code.tex"
 File: pgfcorepathusage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@shorten@end@additional=\dimen181
-\pgf@shorten@start@additional=\dimen182
+\pgf@shorten@end@additional=\dimen182
+\pgf@shorten@start@additional=\dimen183
 )
 ("C:/Users/Cesar Wen/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/basiclay
 er/pgfcorescopes.code.tex"
@@ -669,19 +754,19 @@ File: pgfcorescopes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgfpic=\box48
 \pgf@hbox=\box49
 \pgf@layerbox@main=\box50
-\pgf@picture@serial@count=\count270
+\pgf@picture@serial@count=\count297
 )
 ("C:/Users/Cesar Wen/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/basiclay
 er/pgfcoregraphicstate.code.tex"
 File: pgfcoregraphicstate.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgflinewidth=\dimen183
+\pgflinewidth=\dimen184
 )
 ("C:/Users/Cesar Wen/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/basiclay
 er/pgfcoretransformations.code.tex"
 File: pgfcoretransformations.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@pt@x=\dimen184
-\pgf@pt@y=\dimen185
-\pgf@pt@temp=\dimen186
+\pgf@pt@x=\dimen185
+\pgf@pt@y=\dimen186
+\pgf@pt@temp=\dimen187
 )
 ("C:/Users/Cesar Wen/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/basiclay
 er/pgfcorequick.code.tex"
@@ -698,14 +783,14 @@ File: pgfcorepathprocessing.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 ("C:/Users/Cesar Wen/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/basiclay
 er/pgfcorearrows.code.tex"
 File: pgfcorearrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgfarrowsep=\dimen187
+\pgfarrowsep=\dimen188
 )
 ("C:/Users/Cesar Wen/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/basiclay
 er/pgfcoreshade.code.tex"
 File: pgfcoreshade.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@max=\dimen188
-\pgf@sys@shading@range@num=\count271
-\pgf@shadingcount=\count272
+\pgf@max=\dimen189
+\pgf@sys@shading@range@num=\count298
+\pgf@shadingcount=\count299
 )
 ("C:/Users/Cesar Wen/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/basiclay
 er/pgfcoreimage.code.tex"
@@ -744,8 +829,8 @@ File: pgfmoduleplot.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 ("C:/Users/Cesar Wen/AppData/Local/Programs/MiKTeX 2.9/tex/latex/pgf/compatibil
 ity/pgfcomp-version-0-65.sty"
 Package: pgfcomp-version-0-65 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@nodesepstart=\dimen189
-\pgf@nodesepend=\dimen190
+\pgf@nodesepstart=\dimen190
+\pgf@nodesepend=\dimen191
 )
 ("C:/Users/Cesar Wen/AppData/Local/Programs/MiKTeX 2.9/tex/latex/pgf/compatibil
 ity/pgfcomp-version-1-18.sty"
@@ -767,10 +852,10 @@ Package: pgffor 2020/01/08 v3.1.5b (3.1.5b)
 
 ("C:/Users/Cesar Wen/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/math/pgf
 math.code.tex")
-\pgffor@iter=\dimen191
-\pgffor@skip=\dimen192
-\pgffor@stack=\toks28
-\pgffor@toks=\toks29
+\pgffor@iter=\dimen192
+\pgffor@skip=\dimen193
+\pgffor@stack=\toks33
+\pgffor@toks=\toks34
 ))
 ("C:/Users/Cesar Wen/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/frontend
 layer/tikz/tikz.code.tex"
@@ -779,34 +864,34 @@ Package: tikz 2020/01/08 v3.1.5b (3.1.5b)
 ("C:/Users/Cesar Wen/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/librarie
 s/pgflibraryplothandlers.code.tex"
 File: pgflibraryplothandlers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@plot@mark@count=\count273
-\pgfplotmarksize=\dimen193
+\pgf@plot@mark@count=\count300
+\pgfplotmarksize=\dimen194
 )
-\tikz@lastx=\dimen194
-\tikz@lasty=\dimen195
-\tikz@lastxsaved=\dimen196
-\tikz@lastysaved=\dimen197
-\tikz@lastmovetox=\dimen198
-\tikz@lastmovetoy=\dimen199
-\tikzleveldistance=\dimen256
-\tikzsiblingdistance=\dimen257
+\tikz@lastx=\dimen195
+\tikz@lasty=\dimen196
+\tikz@lastxsaved=\dimen197
+\tikz@lastysaved=\dimen198
+\tikz@lastmovetox=\dimen199
+\tikz@lastmovetoy=\dimen256
+\tikzleveldistance=\dimen257
+\tikzsiblingdistance=\dimen258
 \tikz@figbox=\box53
 \tikz@figbox@bg=\box54
 \tikz@tempbox=\box55
 \tikz@tempbox@bg=\box56
-\tikztreelevel=\count274
-\tikznumberofchildren=\count275
-\tikznumberofcurrentchild=\count276
-\tikz@fig@count=\count277
+\tikztreelevel=\count301
+\tikznumberofchildren=\count302
+\tikznumberofcurrentchild=\count303
+\tikz@fig@count=\count304
 
 ("C:/Users/Cesar Wen/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/modules/
 pgfmodulematrix.code.tex"
 File: pgfmodulematrix.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgfmatrixcurrentrow=\count278
-\pgfmatrixcurrentcolumn=\count279
-\pgf@matrix@numberofcolumns=\count280
+\pgfmatrixcurrentrow=\count305
+\pgfmatrixcurrentcolumn=\count306
+\pgf@matrix@numberofcolumns=\count307
 )
-\tikz@expandcount=\count281
+\tikz@expandcount=\count308
 
 ("C:/Users/Cesar Wen/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/frontend
 layer/tikz/libraries/tikzlibrarytopaths.code.tex"
@@ -839,20 +924,20 @@ Lua module: fontspec 2020/02/21 2.7i Font selection for XeLaTeX and LuaLaTeX
 pec-luatex.sty"
 Package: fontspec-luatex 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTe
 X
-\l__fontspec_script_int=\count282
-\l__fontspec_language_int=\count283
-\l__fontspec_strnum_int=\count284
-\l__fontspec_tmp_int=\count285
-\l__fontspec_tmpa_int=\count286
-\l__fontspec_tmpb_int=\count287
-\l__fontspec_tmpc_int=\count288
-\l__fontspec_em_int=\count289
-\l__fontspec_emdef_int=\count290
-\l__fontspec_strong_int=\count291
-\l__fontspec_strongdef_int=\count292
-\l__fontspec_tmpa_dim=\dimen258
-\l__fontspec_tmpb_dim=\dimen259
-\l__fontspec_tmpc_dim=\dimen260
+\l__fontspec_script_int=\count309
+\l__fontspec_language_int=\count310
+\l__fontspec_strnum_int=\count311
+\l__fontspec_tmp_int=\count312
+\l__fontspec_tmpa_int=\count313
+\l__fontspec_tmpb_int=\count314
+\l__fontspec_tmpc_int=\count315
+\l__fontspec_em_int=\count316
+\l__fontspec_emdef_int=\count317
+\l__fontspec_strong_int=\count318
+\l__fontspec_strongdef_int=\count319
+\l__fontspec_tmpa_dim=\dimen259
+\l__fontspec_tmpb_dim=\dimen260
+\l__fontspec_tmpc_dim=\dimen261
 
 ("C:/Users/Cesar Wen/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/fontenc.s
 ty"
@@ -1035,13 +1120,8 @@ mcp;"
 ("C:/Users/Cesar Wen/AppData/Local/Programs/MiKTeX 2.9/tex/latex/parskip/parski
 p.sty"
 Package: parskip 2020-01-22 v2.0d non-zero parskip adjustments
-
-("C:/Users/Cesar Wen/AppData/Local/Programs/MiKTeX 2.9/tex/latex/etoolbox/etool
-box.sty"
-Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count293
-))
-\my@repeat@count=\count294
+)
+\my@repeat@count=\count320
  (./cesar_wen.aux)
 \openout1 = cesar_wen.aux
 
@@ -1133,7 +1213,7 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ng/gettitlestring.sty"
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count295
+\c@section@level=\count321
 )
 LaTeX Info: Redefining \ref on input line 190.
 LaTeX Info: Redefining \pageref on input line 190.
@@ -1147,17 +1227,17 @@ ABD: EveryShipout initializing macros
 ("C:/Users/Cesar Wen/AppData/Local/Programs/MiKTeX 2.9/tex/context/base/mkii/su
 pp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count296
-\scratchdimen=\dimen261
+\scratchcounter=\count322
+\scratchdimen=\dimen262
 \scratchbox=\box60
-\nofMPsegments=\count297
-\nofMParguments=\count298
-\everyMPshowfont=\toks30
-\MPscratchCnt=\count299
-\MPscratchDim=\dimen262
-\MPnumerator=\count300
-\makeMPintoPDFobject=\count301
-\everyMPtoPDFconversion=\toks31
+\nofMPsegments=\count323
+\nofMParguments=\count324
+\everyMPshowfont=\toks35
+\MPscratchCnt=\count325
+\MPscratchDim=\dimen263
+\MPnumerator=\count326
+\makeMPintoPDFobject=\count327
+\everyMPtoPDFconversion=\toks36
 )
 ("C:/Users/Cesar Wen/AppData/Local/Programs/MiKTeX 2.9/tex/latex/epstopdf-pkg/e
 pstopdf-base.sty"
@@ -1241,46 +1321,45 @@ File: images/profile_picture.JPEG Graphic file (type jpg)
 Package luatex.def Info: images/profile_picture.JPEG  used on input line 208.
 (luatex.def)             Requested size: 113.81102pt x 109.08206pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 285.
+(Font)              <10.95> on input line 288.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 285.
+(Font)              <8> on input line 288.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 285.
+(Font)              <6> on input line 288.
 
 No complaints by nag.
 [1
 
 {C:/Users/Cesar Wen/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}<./images/
 profile_picture.JPEG>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 580.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 580.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 585.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 585.
  (./cesar_wen.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 580.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 580.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 585.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 585.
 Package rerunfilecheck Info: File `cesar_wen.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 580.
 )
 
 Here is how much of LuaTeX's memory you used:
- 26179 strings out of 480992
+ 27138 strings out of 480992
  100000,953878 words of node,token memory allocated
  513 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 5 glue, 3 kern, 1 glyph, 9 attribute, 60 glue_spec,
  6 attribute_list, 2 write nodes
-   avail lists: 2:6992,3:1044,4:244,5:377,6:57,7:4164,8:12,9:918,10:14,11:345
- 42834 multiletter control sequences out of 65536+200000
+   avail lists: 2:6989,3:1039,4:244,5:345,6:55,7:3936,8:10,9:915,10:17,11:309
+ 43718 multiletter control sequences out of 65536+200000
  70 fonts using 15992707 bytes
- 60i,16n,102p,911b,1077s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 60i,16n,102p,990b,1077s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/Cesar Wen/AppData/Local/Microsoft/Windows/Fonts/firasans-italic.ttf><c
 :/users/cesar wen/appdata/local/microsoft/windows/fonts/firasans-medium.ttf><C:/
 Users/Cesar Wen/AppData/Local/Programs/MiKTeX 2.9/fonts/opentype/public/fontawes
 ome/FontAwesome.otf><C:/Users/Cesar Wen/AppData/Local/Microsoft/Windows/Fonts/fi
 rasans-bold.ttf><C:/Users/Cesar Wen/AppData/Local/Microsoft/Windows/Fonts/firasa
 ns-regular.ttf>
-Output written on cesar_wen.pdf (1 page, 188799 bytes).
+Output written on cesar_wen.pdf (1 page, 188226 bytes).
 
-PDF statistics: 60 PDF objects out of 1000 (max. 8388607)
+PDF statistics: 58 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 131072)
  16 words of extra memory for PDF output out of 10000 (max. 100000000)
 
